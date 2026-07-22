@@ -1,0 +1,11 @@
+# Claude Code — installierte Skills (aus skills-lock.json reproduzierbar)
+.claude/skills/
+.agents/skills/
+
+# Claude Code — lokale/persönliche & Session-Daten
+.claude/settings.local.json
+.claude/projects/
+.claude/memory/
+.claude/todos/
+.claude/shell-snapshots/
+.claude/statsig/
